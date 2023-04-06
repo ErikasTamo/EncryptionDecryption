@@ -54,13 +54,3 @@ def main():
 main()
 
 root.mainloop()
-
-
-"""
-key = get_key("asd".encode('utf-8'))
-token = "Bro".encode('utf-8')
-
-print(key)
-print(encrypt(key, token))
-print(decrypt(key, b'gAAAAABkLvKmIdgstByaj58X5ILUOTpSxeoYrhQawevKQ_d3dvoVaKRKXsczoJ4n2w8tm_PINAHytxeezhLEvYvptv6Mmopi1g=='))
-"""
